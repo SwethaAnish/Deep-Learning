@@ -1,4 +1,4 @@
-# DEEP LEARNING OPTIMIZERS - IMPORTANT LINKS FOR REFERENCE 
+## DEEP LEARNING OPTIMIZERS - IMPORTANT LINKS FOR REFERENCE 
 ### STOCHASTIC GRADIENT DESCENT : 
 1. https://www.youtube.com/watch?v=FpDsDn-fBKA
 2. https://www.geeksforgeeks.org/ml-stochastic-gradient-descent-sgd/#:~:text=Stochastic%20Gradient%20Descent%20(SGD)%3A,data%20set%20for%20each%20iteration.
